@@ -1,5 +1,5 @@
 .contact {
-  background-image: linear-gradient(28deg, #000080, #1035ac);
+  background: linear-gradient(20deg,#003500,#048c04);
   padding: 10% 0 6% 5%;
 }
 
@@ -27,7 +27,7 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 28px;
-  color: #639;
+  color: #fff;
   padding-bottom: 6%;
   padding-top: 10%;
 }
@@ -36,7 +36,7 @@
   font-weight: 200;
   font-size: 14px;
   line-height: 24px;
-  color: #639;
+  color: #fff;
 }
 
 .support_form > hr {
@@ -65,11 +65,7 @@
 }
 
 .sbmt {
-  background: linear-gradient(
-    135deg,
-    #000080 0,
-    #1035ac 100%
-  );
+  background: linear-gradient(20deg,#003500,#048c04);
   color: #fff !important;
   height: 40px;
   margin-bottom: 10%;
