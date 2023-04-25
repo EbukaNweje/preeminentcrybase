@@ -26,7 +26,7 @@ align-items: center;
 export const Wrapper = styled.div`
 width: 100%;
 height: 100%;
-background: linear-gradient(20deg,#1035ac,#000080);
+background: linear-gradient(20deg,#003500,#048c04);
 /* padding-bottom: 72px; */
 position: relative;
 display: block;
@@ -117,7 +117,7 @@ margin-top: 40px;
 export const Box = styled.div`
     width: 50%;
     /* background: linear-gradient(45deg, #7B52D3, #6073E0); */
-    background-color: #3E3274;
+    background-color: #003500;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -135,9 +135,9 @@ export const Box = styled.div`
 
 export const TopDiv = styled.div`
 width: 94%;
-color: silver;
+color: white;
 /* background-image: url(${pic}); */
-background: linear-gradient(45deg, #7B52D3, #6073E0);
+background: linear-gradient(20deg,#003500,#048c04);
 /* background-color: linear-gradient(135deg, #7659D6, #646FDF); */
 display: flex;
 justify-content: center;
@@ -155,7 +155,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 /* background-color: green; */
 `;
 export const Daily = styled.div`
-color: whitesmoke;
+color: white;
 width: 100px;
 height: 40px;
 font-size: 15px;
@@ -199,7 +199,7 @@ width: 20px;
 height: 20px;
 border-radius: 50%;
 color: white;
-background-color: #9686FF;
+background-color: #048c04;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 text-align: center;
 

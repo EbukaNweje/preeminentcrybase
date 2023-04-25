@@ -181,7 +181,7 @@ margin-bottom: 15px;
 }
 `;
 export const ButtonHold = styled.div`
-background-color: #1035ac;
+background-color: #048c04;
 width: 150px;
 height: 40px;
 display: flex;

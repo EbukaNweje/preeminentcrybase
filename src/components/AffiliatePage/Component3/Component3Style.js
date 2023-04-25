@@ -112,7 +112,7 @@ margin: 15px 0;
 export const ButtonHold = styled.div`
 width: 150px;
 height: 40px;
-background: linear-gradient(135deg, #1035ac, #000080);
+background: linear-gradient(20deg,#003500,#048c04);
 color: #fff!important;
 margin: 25px 0;
 display: flex;

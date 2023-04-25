@@ -31,7 +31,7 @@ align-items: center;
 `;
 
 export const Wrapper = styled.div`
-background: linear-gradient(20deg,#1035ac,#000080);
+background: linear-gradient(20deg,#003500,#048c04);
 width: 100%;
 height: 100%;
 display: flex;

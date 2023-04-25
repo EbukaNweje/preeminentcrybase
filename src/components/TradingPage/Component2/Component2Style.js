@@ -50,7 +50,7 @@ margin: 7px 0 15px 0;
 export const Line = styled.div`
 width: 50px;
 height: 3px;
-background-color: #54D8A3;
+background-color: #003500;
 margin-bottom: 60px;
 
 `;
@@ -171,7 +171,7 @@ align-items: center;
 }
 `;
 export const Topic = styled.div`
-background: linear-gradient(20deg,#1035ac,#000080);
+background: linear-gradient(20deg,#003500,#048c04);
 display: block;
 color: #fff;
 line-height: 48px;
@@ -347,7 +347,7 @@ color : #3c357e;
 `;
 export const BottomRight = styled(Link)`
 /* display: inline-block; */
-    background-color: #1035ac;
+    background-color: #003500;
     float: right;
     width: 33.333333%;
     line-height: 100px;

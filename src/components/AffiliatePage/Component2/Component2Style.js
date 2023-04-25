@@ -66,7 +66,7 @@ height: auto;
 }
 `;
 export const Icon = styled.div`
-color: #8972A6;
+color: #048c04;
 width: 80px;
 height: 80px;
 `;
