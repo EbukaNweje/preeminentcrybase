@@ -20,8 +20,8 @@ const Contact = () => {
        {/*  <section className="map">Map</section> */}
 
         <section className="support_form">
-          <h4>Support Form</h4>
-          <p className="support_form_parag">
+          <h4 style={{color: "blue"}}>Support Form</h4>
+          <p className="support_form_parag" style={{color: "black"}}>
             <IoLocationOutline />
             &nbsp;&nbsp; Address: 813 Meadowbrook Drive Coppell,TX 75019
             <br />
@@ -33,7 +33,7 @@ const Contact = () => {
           </p>
           <hr />
 
-          <h4>Support Form</h4>
+          <h4 style={{color: "blue"}}>Support Form</h4>
           <form>
             <div className="form-group">
               <input
